@@ -21,7 +21,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/temperature-trend-analysis.git
+   git clone https://github.com/Damilola-Yinusa/temperature-trend-analysis.git
    cd temperature-trend-analysis
    ```
 
